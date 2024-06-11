@@ -31,7 +31,7 @@ If the date of birth is 12/07/1980:
 ```java
 import java.util.*;
 
-public class LuckyNumberCalculator {
+public class app {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in); // Initialize scanner for user input
         int day, month, year, luckyNumber, sum, digit1, digit2, digit3, digit4;
@@ -68,19 +68,18 @@ public class LuckyNumberCalculator {
 - Compile the Java file
 
 ````
-javac src/LuckyNumberCalculator.java -d bin
+javac app.java
 ````
 ## Run the compiled program:
 
 ````
-java -cp bin LuckyNumberCalculator
+java app.java
 ````
 
-##Acknowledgements
+## Acknowledgements
 
 - Thanks to the Visual Studio Code team for providing a powerful and flexible IDE.
 - Thanks to the Java community for the extensive resources and support available.
-- Special thanks to the OpenAI team for their assistance in improving code quality and documentation.
 
 Feel free to reach out if you have any questions or suggestions!
 
