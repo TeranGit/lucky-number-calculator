@@ -85,6 +85,4 @@ Feel free to reach out if you have any questions or suggestions!
 
 Happy Coding!
 
-````
-This README.md is structured to provide a clear and professional overview of your project, making it easy for others to understand and use your code.
-````
+
