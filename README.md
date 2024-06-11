@@ -1,5 +1,14 @@
 # Lucky Number Calculator
 
+````
+Enter date of birth
+day: 30
+month: 05
+year: 1973
+Your lucky number is: 10
+
+````
+
 ## Getting Started
 
 Welcome to the Lucky Number Calculator project! This program calculates a person's lucky number based on their date of birth. The lucky number is derived by summing the digits of the day, month, and year of the date of birth.
